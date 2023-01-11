@@ -8,7 +8,7 @@ export function App() {
         <h1 className={styles.title}>Movies</h1>
         </header>
         <main>
-            <MoviesGrid/>j
+            <MoviesGrid/>
         </main>
       </div>  
     );
